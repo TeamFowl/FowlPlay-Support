@@ -1,0 +1,3 @@
+**Hotwire Car and Hands UP Conflict**
+Issue: After initiating car Hotwiring a car with the H key you can't turn the vehicle and it only drives straight.
+Fix: Go to Menu - Settings - Key Bindings - FiveM and look for scully_emotemenu Handsup and delete the keybind. While Fowl Play doesn't use the scully handsup keybinding and instead uses our own X keybinding tied into our police script, since this emote system is used by multiple servers your keybinding may still be set from another server.
